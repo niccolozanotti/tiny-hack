@@ -1,0 +1,19 @@
+# Compiled arduino sketches
+*.elf
+*.hex
+*.bin
+*.map
+
+# C/C++ object files/static/dynamic libs
+*.o
+*.a
+*.so
+*.dylib
+
+# Miscellanea
+**.DS_Store
+.cache/
+
+# IDE
+.vscode/
+.idea/
