@@ -17,3 +17,6 @@
 # IDE
 .vscode/
 .idea/
+
+.env
+sitting_posture_dataset
